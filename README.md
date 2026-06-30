@@ -20,6 +20,9 @@ Me chamo Michel Diego e sou natural do Rio de Janeiro. Sou formado como Tecnólo
 [![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:micheldiego462@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/micheldiego/)
 
+### 🚀 Projetos de Destaque
+
+[![IIoT-Monitoring-Control](https://img.shields.io/badge/-IIoT--Monitoring--Control-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MichelDiego/IIoT-Monitoring-Control)
 
 ### Main skills:
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
