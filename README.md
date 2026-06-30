@@ -38,6 +38,9 @@ Me chamo Michel Diego e sou natural do Rio de Janeiro. Sou formado como Tecnólo
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6&labelColor=0D1117)&nbsp;
+![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117)&nbsp;
+![Ladder](https://img.shields.io/badge/-Ladder_Logic-0D1117?style=for-the-badge&logo=plc&logoColor=00A896&labelColor=0D1117)&nbsp;
  
 ### Other Knowledge:
 ![Grafana](https://img.shields.io/badge/-Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800&labelColor=0D1117)&nbsp;
