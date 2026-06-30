@@ -31,16 +31,15 @@ Me chamo Michel Diego e sou natural do Rio de Janeiro. Sou formado como Tecnólo
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
 ![Arduino](https://img.shields.io/badge/-ESP32_/_Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D&labelColor=0D1117)&nbsp;
 
-
  
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6&labelColor=0D1117)&nbsp;
 ![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117)&nbsp;
-![Ladder](https://img.shields.io/badge/-Ladder_Logic-0D1117?style=for-the-badge&logo=plc&logoColor=00A896&labelColor=0D1117)&nbsp;
+![Ladder](https://img.shields.io/badge/-Ladder_Logic-0D1117?style=for-the-badge&logo=protools&logoColor=00A896&labelColor=0D1117)&nbsp;
  
 ### Other Knowledge:
 ![Grafana](https://img.shields.io/badge/-Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800&labelColor=0D1117)&nbsp;
