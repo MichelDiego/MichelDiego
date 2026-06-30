@@ -12,7 +12,7 @@ Me chamo Michel Diego e sou natural do Rio de Janeiro. Sou formado como Tecnólo
  
 #
 
-<img align="right" alt="GIF Animado" height="190px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="GIF Animado" height="190px" src="https://cdn.dribbble.com/userupload/22540036/file/original-50018e852bd4f2d06800906946d600fe.gif">
 
 <h3 align="left">Vamos conectar!</h3>
 
