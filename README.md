@@ -53,10 +53,14 @@ Me chamo Michel Diego e sou natural do Rio de Janeiro. Sou formado como Tecnólo
 ![Comandos Elétricos](https://img.shields.io/badge/-Comandos_Elétricos-0D1117?style=for-the-badge&logo=stmicroelectronics&logoColor=03234B&labelColor=0D1117)&nbsp;
 ![Redes Industriais](https://img.shields.io/badge/-Redes_Industriais-0D1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7&labelColor=0D1117)&nbsp;
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MichelDiego/MichelDiego/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MichelDiego/MichelDiego/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MichelDiego/MichelDiego/output/github-contribution-grid-snake.svg">
-</picture>
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MichelDiego/MichelDiego/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MichelDiego/MichelDiego/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MichelDiego/MichelDiego/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
