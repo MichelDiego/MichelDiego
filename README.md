@@ -39,6 +39,7 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
 ![Schneider Electric](https://img.shields.io/badge/-Schneider_Electric-0D1117?style=for-the-badge&logo=schneiderelectric&logoColor=3DCD58&labelColor=0D1117)&nbsp;
 ![Node-RED](https://img.shields.io/badge/-Node--RED-0D1117?style=for-the-badge&logo=nodered&logoColor=8F0000&labelColor=0D1117)&nbsp;
 ![MQTT](https://img.shields.io/badge/-MQTT-0D1117?style=for-the-badge&logo=mqtt&logoColor=660066&labelColor=0D1117)&nbsp;
+![Robótica](https://img.shields.io/badge/-Rob%C3%B3tica-0D1117?style=for-the-badge&logo=robotframework&logoColor=00d4ff&labelColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
 ![Arduino](https://img.shields.io/badge/-ESP32_/_Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D&labelColor=0D1117)&nbsp;
 
