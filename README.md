@@ -44,10 +44,13 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
 ![Arduino](https://img.shields.io/badge/-ESP32_/_Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D&labelColor=0D1117)&nbsp;
 
 ### Ferramentas:
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6&labelColor=0D1117)&nbsp;
 ![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117)&nbsp;
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=A22846&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6&labelColor=0D1117)&nbsp;
 
 ### Dados e Conhecimentos Gerais:
 ![Grafana](https://img.shields.io/badge/-Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800&labelColor=0D1117)&nbsp;
