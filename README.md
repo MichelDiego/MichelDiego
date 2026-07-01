@@ -14,7 +14,7 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
  
 #
 
-<img align="right" alt="GIF Animado" height="190px" src="https://cdn.dribbble.com/userupload/22540036/file/original-50018e852bd4f2d06800906946d600fe.gif">
+<img align="right" alt="Dashboard de Automação e Node-RED" height="190px" src="https://cdn.dribbble.com/userupload/22540036/file/original-50018e852bd4f2d06800906946d600fe.gif">
 
 <h3 align="left">Vamos conectar!</h3>
 
@@ -22,6 +22,7 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
 [![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:micheldiego462@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/micheldiego/)
 
+<br clear="both">
 <br>
 
 ### 🚀 Projetos e Atuação em Campo:
