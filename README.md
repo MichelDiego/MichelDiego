@@ -75,6 +75,7 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
 <br>
 
 ###  Estudando no momento:
+![Eletromecânica](https://img.shields.io/badge/-Eletromec%C3%A2nica-0D1117?style=for-the-badge&logo=bosch&logoColor=df0000&labelColor=0D1117)&nbsp;
 ![Instrumentação](https://img.shields.io/badge/-Instrumentação_Industrial-0D1117?style=for-the-badge&logo=eclipsemosquitto&logoColor=3C5280&labelColor=0D1117)&nbsp;
 ![Comandos Elétricos](https://img.shields.io/badge/-Comandos_Elétricos-0D1117?style=for-the-badge&logo=stmicroelectronics&logoColor=03234B&labelColor=0D1117)&nbsp;
 ![Redes Industriais](https://img.shields.io/badge/-Redes_Industriais-0D1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7&labelColor=0D1117)&nbsp;
