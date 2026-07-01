@@ -54,6 +54,8 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
 ![InfluxDB](https://img.shields.io/badge/-InfluxDB-0D1117?style=for-the-badge&logo=influxdb&logoColor=22ADF6&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117)&nbsp;
 ![Ladder](https://img.shields.io/badge/-Ladder_Logic-0D1117?style=for-the-badge&logo=protools&logoColor=00A896&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)&nbsp;
 
 ### Estudando no momento:
