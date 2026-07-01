@@ -16,9 +16,7 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
 
 <img align="right" alt="Dashboard de Automação e Node-RED" height="190px" src="https://cdn.dribbble.com/userupload/22540036/file/original-50018e852bd4f2d06800906946d600fe.gif">
 
-<h3 align="left">Vamos conectar!</h3>
-
-
+<h3 align="left">Contato e Networking</h3>
 
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5521979593500)
 [![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:micheldiego462@gmail.com)&nbsp;
@@ -36,7 +34,6 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
 **2. Gateway IT/OT: Conversão de HTTP/XML para Modbus TCP** <br>
 [![XML-Node-Red-e-EBO](https://img.shields.io/badge/-Repositório_no_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MichelDiego/XML-Node-Red-e-EBO)&nbsp;
 [![Google Drive](https://img.shields.io/badge/-Documentação_do_Projeto_(Google_Drive)-0D1117?style=for-the-badge&logo=googledrive&logoColor=34A853)](https://drive.google.com/drive/u/1/folders/1N2tnpOpwcRsQfyTwCerbXTq-GGT0abVG)
-
 <br>
 
 ### 🛠️ Principais Habilidades:
@@ -45,8 +42,8 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
 ![MQTT](https://img.shields.io/badge/-MQTT-0D1117?style=for-the-badge&logo=mqtt&logoColor=660066&labelColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
 ![Arduino](https://img.shields.io/badge/-ESP32_/_Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D&labelColor=0D1117)&nbsp;
+<br>
 
- 
 ### ⚙️ Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)&nbsp;
@@ -55,19 +52,20 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
 ![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117)&nbsp;
 ![Ladder](https://img.shields.io/badge/-Ladder_Logic-0D1117?style=for-the-badge&logo=protools&logoColor=00A896&labelColor=0D1117)&nbsp;
- 
+<br>
+
 ### 📊 Dados e Conhecimentos Gerais:
 ![Grafana](https://img.shields.io/badge/-Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=F46800&labelColor=0D1117)&nbsp;
 ![InfluxDB](https://img.shields.io/badge/-InfluxDB-0D1117?style=for-the-badge&logo=influxdb&logoColor=22ADF6&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)&nbsp;
-  
+<br>
+
 ### 📚 Estudando no momento:
 ![Instrumentação](https://img.shields.io/badge/-Instrumentação_Industrial-0D1117?style=for-the-badge&logo=eclipsemosquitto&logoColor=3C5280&labelColor=0D1117)&nbsp;
 ![Comandos Elétricos](https://img.shields.io/badge/-Comandos_Elétricos-0D1117?style=for-the-badge&logo=stmicroelectronics&logoColor=03234B&labelColor=0D1117)&nbsp;
 ![Redes Industriais](https://img.shields.io/badge/-Redes_Industriais-0D1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7&labelColor=0D1117)&nbsp;
-
 ---
 
 <div align="center">
