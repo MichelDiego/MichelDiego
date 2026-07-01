@@ -39,6 +39,7 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
 ![Schneider Electric](https://img.shields.io/badge/-Schneider_Electric-0D1117?style=for-the-badge&logo=schneiderelectric&logoColor=3DCD58&labelColor=0D1117)&nbsp;
 ![Node-RED](https://img.shields.io/badge/-Node--RED-0D1117?style=for-the-badge&logo=nodered&logoColor=8F0000&labelColor=0D1117)&nbsp;
 ![MQTT](https://img.shields.io/badge/-MQTT-0D1117?style=for-the-badge&logo=mqtt&logoColor=660066&labelColor=0D1117)&nbsp;
+![IoT / IIoT](https://img.shields.io/badge/-IoT%20%2F%20IIoT-0D1117?style=for-the-badge&logo=robotframework&logoColor=00d4ff&labelColor=0D1117)&nbsp;
 ![Robótica](https://img.shields.io/badge/-Rob%C3%B3tica-0D1117?style=for-the-badge&logo=robotframework&logoColor=00d4ff&labelColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
 ![Arduino](https://img.shields.io/badge/-ESP32_/_Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D&labelColor=0D1117)&nbsp;
@@ -58,6 +59,8 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
 ![InfluxDB](https://img.shields.io/badge/-InfluxDB-0D1117?style=for-the-badge&logo=influxdb&logoColor=22ADF6&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117)&nbsp;
 ![Ladder](https://img.shields.io/badge/-Ladder_Logic-0D1117?style=for-the-badge&logo=protools&logoColor=00A896&labelColor=0D1117)&nbsp;
+![Modbus](https://img.shields.io/badge/-Modbus-0D1117?style=for-the-badge&logo=gitconnected&logoColor=FF8C00&labelColor=0D1117)&nbsp;
+![BACnet](https://img.shields.io/badge/-BACnet-0D1117?style=for-the-badge&logo=homeassistant&logoColor=41BDF5&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)&nbsp;
