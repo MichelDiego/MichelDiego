@@ -72,10 +72,12 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MichelDiego/MichelDiego/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MichelDiego/MichelDiego/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MichelDiego/MichelDiego/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MichelDiego/MichelDiego/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MichelDiego/MichelDiego/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MichelDiego/MichelDiego/output/pacman-contribution-graph.svg">
   </picture>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=footer"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=footer"/>
