@@ -18,6 +18,8 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
 
 <h3 align="left">Vamos conectar!</h3>
 
+
+
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5521979593500)
 [![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:micheldiego462@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/micheldiego/)
