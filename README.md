@@ -14,23 +14,23 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
  
 #
 
-<img align="right" alt="Dashboard de Automação e Node-RED" height="190px" src="https://cdn.dribbble.com/userupload/22540036/file/original-50018e852bd4f2d06800906946d600fe.gif">
+<div align="center">
+  <img src="banner.png" alt="Michel Diego - Automação Industrial e IIoT" width="100%">
 
-<h3 align="left">Contato e Networking</h3>
+  <br><br>
+  <h3>Contato e Networking</h3>
 
-<a href="https://wa.me/5521979593500" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
+  <a href="https://wa.me/5521979593500" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/micheldiego/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>&nbsp;
+  <a href="mailto:micheldiego462@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 
-<a href="https://www.linkedin.com/in/micheldiego/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="mailto:micheldiego462@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-
-<br clear="both">
 <br>
 
 ### 🚀 Projetos e Atuação em Campo:
@@ -42,6 +42,7 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
 **2. Gateway IT/OT: Conversão de HTTP/XML para Modbus TCP** <br>
 [![XML-Node-Red-e-EBO](https://img.shields.io/badge/-Repositório_no_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MichelDiego/XML-Node-Red-e-EBO)&nbsp;
 [![Google Drive](https://img.shields.io/badge/-Documentação_do_Projeto_(Google_Drive)-0D1117?style=for-the-badge&logo=googledrive&logoColor=34A853)](https://drive.google.com/drive/u/1/folders/1N2tnpOpwcRsQfyTwCerbXTq-GGT0abVG)
+
 <br>
 
 ### 🛠️ Principais Habilidades:
@@ -50,6 +51,7 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
 ![MQTT](https://img.shields.io/badge/-MQTT-0D1117?style=for-the-badge&logo=mqtt&logoColor=660066&labelColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
 ![Arduino](https://img.shields.io/badge/-ESP32_/_Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D&labelColor=0D1117)&nbsp;
+
 <br>
 
 ### ⚙️ Ferramentas:
@@ -60,6 +62,7 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
 ![Arduino IDE](https://img.shields.io/badge/-Arduino_IDE-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117)&nbsp;
 ![Ladder](https://img.shields.io/badge/-Ladder_Logic-0D1117?style=for-the-badge&logo=protools&logoColor=00A896&labelColor=0D1117)&nbsp;
+
 <br>
 
 ### 📊 Dados e Conhecimentos Gerais:
@@ -68,12 +71,14 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)&nbsp;
+
 <br>
 
 ### 📚 Estudando no momento:
 ![Instrumentação](https://img.shields.io/badge/-Instrumentação_Industrial-0D1117?style=for-the-badge&logo=eclipsemosquitto&logoColor=3C5280&labelColor=0D1117)&nbsp;
 ![Comandos Elétricos](https://img.shields.io/badge/-Comandos_Elétricos-0D1117?style=for-the-badge&logo=stmicroelectronics&logoColor=03234B&labelColor=0D1117)&nbsp;
 ![Redes Industriais](https://img.shields.io/badge/-Redes_Industriais-0D1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7&labelColor=0D1117)&nbsp;
+
 ---
 
 <div align="center">
