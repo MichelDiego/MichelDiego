@@ -78,6 +78,5 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
   </picture>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=footer"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=footer"/>
