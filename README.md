@@ -8,7 +8,9 @@
 
 #
 
-Me chamo Michel Diego e sou natural do Rio de Janeiro. Sou formado como Tecnólogo em Automação Industrial, atuo como Técnico de Automação Predial e sou estudante de Eletromecânica. Sou apaixonado por conectar o chão de fábrica à nuvem, explorando a convergência entre IT/OT através de soluções em IIoT, Sistemas Embarcados (ESP32) e análise de dados. Meu foco é gerar eficiência e previsibilidade na operação de sistemas críticos (BMS/SCADA).
+<p align="justify">
+Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Janeiro. Atuo como Técnico de Automação Predial focado na convergência IT/OT. Minha paixão é conectar o chão de fábrica à nuvem utilizando IIoT, ESP32 e análise de dados para gerar eficiência e previsibilidade em sistemas críticos (BMS/SCADA).
+</p>
  
 #
 
