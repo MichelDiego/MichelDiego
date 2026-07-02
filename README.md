@@ -79,7 +79,14 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MichelDiego/MichelDiego/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MichelDiego/MichelDiego/output/pacman-contribution-graph.svg">
   </picture>
+  
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichelDiego&theme=tokyonight&ring=00d4ff&fire=00d4ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=0D1117&hide_border=true" alt="Streak Stats" valign="middle" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=MichelDiego&color=00d4ff&style=for-the-badge&label=Visitas" alt="Contador de Visitas" valign="middle" />
 </div>
 
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=footer"/>
