@@ -28,22 +28,19 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
 ### Projetos e Atuação em Campo:
 
 **1. Sistema de Monitoramento e Controle IIoT** <br>
+> *Sistema de telemetria e controle em tempo real para variáveis industriais e prediais (BMS), integrando dispositivos de campo (ESP32/Arduino) à nuvem com foco em eficiência e previsibilidade.*<br>
 [![IIoT-Monitoring-Control](https://img.shields.io/badge/-Repositório_no_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MichelDiego/IIoT-Monitoring-Control)&nbsp;
 [![Google Drive](https://img.shields.io/badge/-Repositório_em_Campo_(Google_Drive)-0D1117?style=for-the-badge&logo=googledrive&logoColor=34A853)](https://drive.google.com/drive/u/1/folders/1CbQxDUkJ3atlZN0r8CcHZN9Mul5aLsuT)
 
 **2. Gateway IT/OT: Conversão de HTTP/XML para Modbus TCP** <br>
+> *Middleware desenvolvido em Node-RED para interoperabilidade de dados entre sistemas corporativos de TI (HTTP/XML) e redes industriais/BMS via Modbus TCP (Schneider Electric EBO).*<br>
 [![XML-Node-Red-e-EBO](https://img.shields.io/badge/-Repositório_no_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MichelDiego/XML-Node-Red-e-EBO)&nbsp;
 [![Google Drive](https://img.shields.io/badge/-Documentação_do_Projeto_(Google_Drive)-0D1117?style=for-the-badge&logo=googledrive&logoColor=34A853)](https://drive.google.com/drive/u/1/folders/1N2tnpOpwcRsQfyTwCerbXTq-GGT0abVG)
 
-# 📡 Radar Meteorológico Preditivo & Motor de Telemetria SST (NR-35)
-
-![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-EB6E4B?style=for-the-badge&logo=openweathermap&logoColor=white)
-![IT/OT Convergence](https://img.shields.io/badge/IT/OT_Convergence-0056b3?style=for-the-badge)
-
-[![Repositório no GitHub](https://img.shields.io/badge/-Reposit%C3%B3rio_no_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MichelDiego/radar-telemetria-sst/)&nbsp;
-[![Google Drive](https://img.shields.io/badge/-Documenta%C3%A7%C3%A3o_do_Projeto_(Google_Drive)-0D1117?style=for-the-badge&logo=googledrive&logoColor=34A853)](https://drive.google.com/drive/u/1/folders/1avHsMMq5jcwGjY_69YBqfBE1B63znS5A)
+**3. Radar Meteorológico Preditivo e Motor de Telemetria SST (NR-35)** <br>
+> *Motor de inteligência IT/OT (Node-RED + OpenWeatherMap API) com filtro anti-spam e alertas automatizados de risco climático para segurança do trabalho em canteiros de obras.*<br>
+[![Radar-SST](https://img.shields.io/badge/-Reposit%C3%B3rio_no_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MichelDiego/LINK_DO_SEU_NOVO_REPOSITORIO_AQUI)&nbsp;
+[![Google Drive](https://img.shields.io/badge/-Documenta%C3%A7%C3%A3o_do_Projeto_(Google_Drive)-0D1117?style=for-the-badge&logo=googledrive&logoColor=34A853)](LINK_DO_SEU_DRIVE_AQUI)
 
 ### Principais Habilidades:
 ![Schneider Electric](https://img.shields.io/badge/-Schneider_Electric-0D1117?style=for-the-badge&logo=schneiderelectric&logoColor=3DCD58&labelColor=0D1117)&nbsp;
