@@ -39,8 +39,8 @@ Tecnólogo em Automação Industrial e estudante de Eletromecânica no Rio de Ja
 
 **3. Radar Meteorológico Preditivo e Motor de Telemetria SST (NR-35)** <br>
 > *Motor de inteligência IT/OT (Node-RED + OpenWeatherMap API) com filtro anti-spam e alertas automatizados de risco climático para segurança do trabalho em canteiros de obras.*<br>
-[![Radar-SST](https://img.shields.io/badge/-Reposit%C3%B3rio_no_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MichelDiego/LINK_DO_SEU_NOVO_REPOSITORIO_AQUI)&nbsp;
-[![Google Drive](https://img.shields.io/badge/-Documenta%C3%A7%C3%A3o_do_Projeto_(Google_Drive)-0D1117?style=for-the-badge&logo=googledrive&logoColor=34A853)](LINK_DO_SEU_DRIVE_AQUI)
+[![Radar-SST](https://img.shields.io/badge/-Reposit%C3%B3rio_no_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MichelDiego/radar-telemetria-sst/)&nbsp;
+[![Google Drive](https://img.shields.io/badge/-Documenta%C3%A7%C3%A3o_do_Projeto_(Google_Drive)-0D1117?style=for-the-badge&logo=googledrive&logoColor=34A853)](https://drive.google.com/drive/u/1/folders/1avHsMMq5jcwGjY_69YBqfBE1B63znS5A)
 
 ### Principais Habilidades:
 ![Schneider Electric](https://img.shields.io/badge/-Schneider_Electric-0D1117?style=for-the-badge&logo=schneiderelectric&logoColor=3DCD58&labelColor=0D1117)&nbsp;
